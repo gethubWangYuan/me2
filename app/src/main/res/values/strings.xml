@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">me</string>
+
+    <string name="popupwindow_set_have_a_class_text">可上课时间(<font color="#FF4081">*一周最多选两节课</font>)</string>
+    <string name="popupwindow_set_am">上午</string>
+    <string name="popupwindow_set_pm">下午</string>
+    <string name="popupwindow_set_night">晚上</string>
+
+    <string name="popupwindow_set_am_date">上午      &#160;08:00-12:00&#160;</string>
+    <string name="popupwindow_set_pm_date">下午      &#160;14:00-18:00&#160;</string>
+    <string name="popupwindow_set_night_date">晚上       &#160;20:00-22:00&#160;</string>
+</resources>
